@@ -42,9 +42,9 @@ crops_image/
 
 | Metric | Value |
 |--------|-------|
-| Accuracy | **86.82%** |
-| Macro F1-score | **87.03%** |
-| Weighted F1-score | **87.03%** |
+| Accuracy | **94.32%** |
+| Macro F1-score | **94.25%** |
+| Weighted F1-score | **94.25%** |
 
 ### Loss Curve
 
