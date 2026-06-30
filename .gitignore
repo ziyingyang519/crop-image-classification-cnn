@@ -15,8 +15,8 @@ venv/
 # VS Code
 .vscode/
 
-# Data
-data/
+# Dataset
+crops_image/
 
 # Model checkpoints
 *.pth
